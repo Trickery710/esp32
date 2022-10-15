@@ -1,3 +1,6 @@
 
 ##tutorials
 https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/
+
+##hompage
+https://code.visualstudio.com/docs/setup/linux
